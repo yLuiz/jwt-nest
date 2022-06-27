@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/FabricaDeSinapse/nestjs-auth/blob/main/prisma/sqlite.db
+HostUrl=https://raw.githubusercontent.com/FabricaDeSinapse/nestjs-auth/main/prisma/sqlite.db
